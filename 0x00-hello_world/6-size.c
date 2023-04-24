@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - prints the size of
- * return: 0
+ * main - Description: Entry point
+ * return: Always 0
  */
 int main(void)
 {
